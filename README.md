@@ -1,5 +1,7 @@
 # supplementary
-TopPush experiment using feature space different from bitmap.
+TopPush experiment using feature space different from bitmap.  
+The industry folder summarizes the rankings of each type of business.  
+The lambda folder summarizes the rankings of all industries of a particular lambda.
 
 1. RGB_histogram  
 Classify each pixel according to the intensity of RGB value and treat its histogram as feature vectors.  
